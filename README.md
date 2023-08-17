@@ -33,8 +33,8 @@ The model_type will be used for the interpreter and the input_size will be used 
 ## Installation and Usage
 1. Clone the repo: 
 ```
-git clone https://github.com/OhRai/exercise-app.git
-cd exercise-tracking-app
+git clone https://github.com/OhRai/Exercise-App.git
+cd Exercise-App
 ```
 
 2. Setup up a virtual environment:
